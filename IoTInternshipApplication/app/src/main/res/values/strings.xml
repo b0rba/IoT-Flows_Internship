@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IoT Internship Application</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_recycle_list">RecycleList</string>
+    <string name="noMatch_Dialog">No results found</string>
+    <string name="dialog_dismiss">Ok</string>
+</resources>
